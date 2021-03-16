@@ -5,7 +5,7 @@ Proposal PPTs for Capstone Design 1 <br>
 > > Our Project propose a safe transaction between users by adopting BlockChain mechanism.
 > 2. Lost and Found IoT System <br>
 > > According to www.police.go.kr lost-and-found statistics, most of losts were 'things'(87.72%).
-> > Our project propose 'Lost and Found IoT System', which can apply to a cinema.
+> > We propose 'Lost and Found IoT System', which can apply to a cinema.
 > > 'Lost and Found IoT System' is an heterogenous IoT system that consist of sensor part(Ardunino) and server part(Rasberrypi)
 > > This project is a extend project of Capstone Design 2, [Lost and Found System](https://github.com/inhoinno/lost-and-found-system)
 
